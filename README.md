@@ -11,7 +11,7 @@
 
 ##
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -41,7 +41,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-palma&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=darcula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
