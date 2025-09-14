@@ -58,6 +58,6 @@
 
 ##
 
-<span style="font-size:24px; font-weight:bold;">
-<br>Take a peek at a few of my projects below ⬇️
-</span>
+
+### **Take a peek at a few of my projects below ⬇️**
+
