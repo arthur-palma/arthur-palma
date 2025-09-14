@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Arthur Palma, a Full Stack Software Developer with a focus on Java (Spring Boot), React, and PostgreSQL. While most of my work revolves around building full stack applications, I enjoy exploring other areas of computer science through personal and study projects. Over time, I've experimented with topics like networking, distributed systems, computer graphics, and software architecture, always with the goal of learning new concepts and improving my problem-solving skills. I see every project as an opportunity to grow, whether it's a production-ready application or a small experiment to test a new idea.
+<p align="left">I'm a Full Stack Software Developer with a focus on Java (Spring Boot), React, and PostgreSQL. While most of my work revolves around building full stack applications, I enjoy exploring other areas of computer science through personal and study projects. Over time, I've experimented with topics like networking, distributed systems, computer graphics, and software architecture, always with the goal of learning new concepts and improving my problem-solving skills. I see every project as an opportunity to grow, whether it's a production-ready application or a small experiment to test a new idea.
 </p>
 
 ###
