@@ -1,4 +1,4 @@
-## Hi! I'm Arthur Palma!
+ <h1 align="center">Hi! I'm Arthur Palma!</h1>  
 
 **👨‍💻 About Me!**
 
